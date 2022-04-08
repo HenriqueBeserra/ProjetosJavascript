@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Quicksand:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+}
+.cabeçalho {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    
+}
+
+.nome {
+display:flex;
+margin-top: 5px;
+
+}
+
+.imagem {
+   margin-bottom: 1px;
+   margin-top: 10px;
+    border-radius: 50px;
+    border: aquamarine solid 0.5px;
+}
+
+
+.imgMeio {
+    width: 20%;
+    padding: auto;
+    margin-top: 20px;
+    margin-bottom:10px ;
+}
+
+.conteudo {
+    align-items: center;
+}
+
+.Bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.contatos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    
+    
+.descrição {
+    border-bottom: solid 1px;
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width:100% ;
+}
