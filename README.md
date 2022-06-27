@@ -1,6 +1,6 @@
 # **Projetos feito em Javascript**
 
-## Repositório Responsável por mostrar alguns projetos feitos com objetivode conhecer ainda mais as ferramentas do front-end.
+### Repositório Responsável por mostrar alguns projetos feitos com objetivo de conhecer ainda mais as ferramentas do front-end.
 
 
 #### Links com os códigos dos projetos
